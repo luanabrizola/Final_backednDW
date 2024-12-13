@@ -1,11 +1,13 @@
 
 
-GET https://final-backenddw.onrender.com/usuarios
+GET http://localhost:3333/usuarios
 
 ###
 
 
-POST https://final-backenddw.onrender.com/usuarios
+
+
+POST http://localhost:3333/usuarios
 Content-type: application/json
 
 {
