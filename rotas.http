@@ -1,9 +1,5 @@
 
 
-GET https://final-backenddw.onrender.com/usuarios
-
-###
-
 
 POST https://final-backenddw.onrender.com/usuarios
 Content-type: application/json
